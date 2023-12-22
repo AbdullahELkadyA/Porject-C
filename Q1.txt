@@ -1,0 +1,3 @@
+Q1:Which memory storage is widely used in PCs and Embedded Systems?
+A) EEPROM
+B) DRAM

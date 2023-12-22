@@ -1,0 +1,4 @@
+Q10: We can test the presence of a loop in a linked list by ________.
+
+A) Comparing the nodes address with the address of all the other nodes
+B) Travelling the list. In case we encounter the NULL, then no loop exists

@@ -1,0 +1,7 @@
+Q9:Out of the following function definition, which one will run correctly?
+
+A)int sum(int x, int y)
+    return (x + y);
+B)
+ int sum(int x, int y)
+   {return (x + y);}

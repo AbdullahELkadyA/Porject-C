@@ -1,0 +1,3 @@
+Q2:Which type of memory is suitable for low volume production of embedded systems?
+A) Non-volatile
+B) RAM

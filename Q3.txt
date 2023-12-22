@@ -1,0 +1,3 @@
+Q3:How an embedded system communicate with the outside world?
+A) Output
+B) Peripherals

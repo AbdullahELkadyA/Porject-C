@@ -1,0 +1,4 @@
+Q4:Cross Compiler converts
+
+A) Program into C language into binary language
+B) Program in C language into program of another processors language

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1702569655 source:d:\cs\embedded course\solvebyme\try_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+

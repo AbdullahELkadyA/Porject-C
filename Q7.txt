@@ -1,0 +1,4 @@
+Q7:The global variables are ____________.
+
+A) External
+B) Internal

@@ -1,0 +1,3 @@
+Q5:Which interrupts generate fast interrupt exception?
+A) internal interrupt
+B) external interrupt
